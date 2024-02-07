@@ -1,0 +1,61 @@
+[
+    {
+        "id": "pvyZ4hVsta",
+        "position": "Flutter Internship",
+        "summary": "Evakon Tech is seeking a talented and motivated Flutter intern to join our team. As a Flutter intern, you will work closely with our development team to create high-quality mobile applications.",
+        "responsibilities": [
+            " Develop and design mobile applications using Flutter framework.",
+
+            "Adhere to the organization's coding guidelines and best practices.",
+
+            "Complete assigned tasks and projects within given deadlines.",
+
+            "Demonstrate creative thinking to propose innovative ideas.",
+
+            " Receive feedback from managers and implement necessary changes."
+        ],
+        "requirements": [
+            "Currently enrolled in a computer science or related program with knowledge of Flutter or a recent graduate",
+            "Proficient in Flutter framework and Dart programming language",
+
+            "Strong coding and problem-solving skills",
+
+            "Attention to detail and ability to deliver high-quality work",
+
+            "Excellent communication and time management skills",
+            "Ability to work independently and collaboratively as part of a team"
+        ],
+        "openings": 1,
+        "deadline": "10th Jul 2023",
+        "posted": "24th June 2023",
+        "page_url": "flutter-internship"
+    },
+
+    {
+        "id": "OxSK_8cXdy",
+        "position": "UI/UX Internship",
+        "summary": "Evakon Tech is seeking a highly motivated and creative UI/UX Designer Intern to join our dynamic and innovative team. As a UI/UX Designer Intern, you will have the opportunity to collaborate with experienced professionals and gain hands-on experience in designing.",
+        "responsibilities": [
+            "  Collaborate with cross-functional teams, including product managers, developers, and other designers, to understand project requirements and goals.",
+            "Conduct user research and gather insights to inform the design process.",
+            "Create wireframes, prototypes, and visual designs that effectively communicate the desired user experience.",
+            "Iterate on designs based on feedback and user testing to ensure a seamless and intuitive user interface.",
+            "Develop and maintain design guidelines, patterns, and best practices.",
+            "Assist in the creation of user personas, user flows, and other UX artifacts.",
+            "Stay updated with industry trends and emerging design technologies to continually improve design practices.",
+            "Contribute to a positive and collaborative work environment, actively participating in design critiques and providing constructive feedback to peers."
+        ],
+        "requirements": [
+            "Proficiency in design tools such as Adobe Creative Suite (Photoshop, Illustrator, XD), Sketch, or Figma.",
+            "Basic understanding of user-centered design principles and methodologies.",
+            "Strong visual design skills, with an eye for detail and aesthetics.",
+            "Excellent communication and presentation skills to effectively articulate design concepts and decisions.",
+            "Ability to work independently and collaboratively in a fast-paced environment.",
+            "A portfolio showcasing your design projects or case studies that demonstrate your skills and creative thinking."
+        ],
+        "openings": 1,
+        "deadline": "10th Jul 2023",
+        "posted": "24th June 2023",
+        "page_url": "uiux-internship"
+    }
+]
